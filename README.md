@@ -17,7 +17,7 @@
 * PERSONAL PRONOUNS
 * AVG WORD LENGTH
 
- have been computed, and all the results have been stored in output.xlsx file.
+ have been computed, and all the results have been stored in output.csv file.
  
  And for the stopwords and positive, negative words respective text files have been used.
 
