@@ -19,5 +19,5 @@
 
  have been computed, and all the results have been stored in output.xlsx file.
  
- And for the stopwords and positive, negative words particular respective text files have been used.
+ And for the stopwords and positive, negative words respective text files have been used.
 
