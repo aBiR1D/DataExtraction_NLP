@@ -1,6 +1,7 @@
 # DataExtraction_NLP
- For each of the extracted texts from the article, textual analysis has been performed and a bunch of variables
- like,
+ For each of the articles (links are listed in Input.xlsx), extracted texts are saved in the Extracted_Text folder 
+ 
+ as a text file and textual analysis has been performed and a bunch of variables like,
 
 
 * POSITIVE SCORE
@@ -17,5 +18,6 @@
 * AVG WORD LENGTH
 
  have been computed, and all the results have been stored in an excel file.
- And for the stopwords and positive, negative words particular lists have been used.
+ 
+ And for the stopwords and positive, negative words particular respective text files have been used.
 
